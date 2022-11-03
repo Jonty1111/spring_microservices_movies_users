@@ -1,5 +1,8 @@
 <b> 31 OCT  </b>
 
+<b> POSTMAN COLLECTION </b>
+https://www.getpostman.com/collections/f1a1ab0c2a39ae468d78
+
 <b> Movie App </b>
 
 
